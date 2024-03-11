@@ -32,10 +32,10 @@ Feel free to use this remix in your projects, but please credit me on Instagram:
 Proyek ini adalah remix lagu "Lovely" dari Billie Eilish dengan sentuhan reggae, dubstep, dan elemen dari lagu "New Levels" oleh planetboom. 
 
 ## Sumber Audio
-- **Lovely ** by Billie Eilish: [Listen on YouTube](https://www.youtube.com/watch?v=V1Pl8CzNzCw)
-- **New Levels** by planetboom: [Listen on YouTube](https://www.youtube.com/watch?v=VxYrK1bhsIw)
-- **First of the Year (Equinox)** by Skrillex: [Listen on YouTube](https://www.youtube.com/watch?v=TYYyMu3pzL4)
-- **Louder (Doctor P & Flux Pavilion Remix)** by DJ Fresh: [Listen on YouTube](https://www.youtube.com/watch?v=7cxgao2rYZw)
+- **Lovely** oleh Billie Eilish: [Listen on YouTube](https://www.youtube.com/watch?v=V1Pl8CzNzCw)
+- **New Levels** oleh planetboom: [Listen on YouTube](https://www.youtube.com/watch?v=VxYrK1bhsIw)
+- **First of the Year (Equinox)** oleh Skrillex: [Listen on YouTube](https://www.youtube.com/watch?v=TYYyMu3pzL4)
+- **Louder (Doctor P & Flux Pavilion Remix)** oleh DJ Fresh: [Listen on YouTube](https://www.youtube.com/watch?v=7cxgao2rYZw)
 - Semua lagu diatas diproses dahulu menggunakan [Demucs by Facebook Research](https://github.com/facebookresearch/demucs) untuk dipisah per-track, lalu ditranspose dan dipotong gila gilaan pake Ableton Live. 
 
 ## Download
