@@ -5,6 +5,7 @@ This project is a remix of Billie Eilish's "Lovely" with reggae vibes, dubstep d
 
 ## Audio Sources
 - **Lovely** by Billie Eilish: [Listen on YouTube](https://www.youtube.com/watch?v=V1Pl8CzNzCw)
+- **How to play reggae keyboard #1 skank trombone clavinet** by MADKASTAR PROJECT [Listen on YouTube](https://www.youtube.com/watch?v=YnFzwDh68fI)
 - **New Levels** by planetboom: [Listen on YouTube](https://www.youtube.com/watch?v=VxYrK1bhsIw)
 - **First of the Year (Equinox)** by Skrillex: [Listen on YouTube](https://www.youtube.com/watch?v=TYYyMu3pzL4)
 - **Louder (Doctor P & Flux Pavilion Remix)** by DJ Fresh: [Listen on YouTube](https://www.youtube.com/watch?v=7cxgao2rYZw)
@@ -33,6 +34,7 @@ Proyek ini adalah remix lagu "Lovely" dari Billie Eilish dengan sentuhan reggae,
 
 ## Sumber Audio
 - **Lovely** oleh Billie Eilish: [Listen on YouTube](https://www.youtube.com/watch?v=V1Pl8CzNzCw)
+- **How to play reggae keyboard #1 skank trombone clavinet** by MADKASTAR PROJECT [Listen on YouTube](https://www.youtube.com/watch?v=YnFzwDh68fI)
 - **New Levels** oleh planetboom: [Listen on YouTube](https://www.youtube.com/watch?v=VxYrK1bhsIw)
 - **First of the Year (Equinox)** oleh Skrillex: [Listen on YouTube](https://www.youtube.com/watch?v=TYYyMu3pzL4)
 - **Louder (Doctor P & Flux Pavilion Remix)** oleh DJ Fresh: [Listen on YouTube](https://www.youtube.com/watch?v=7cxgao2rYZw)
